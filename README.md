@@ -6,6 +6,7 @@ Although it's very unlikely. If you get banned on Discord for using this, it isn
 Anything you do with this tool, you do of your own will. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Q : How do I setup the tool?
 A : First of all install python, I recommend Python 3.8.10, once installed run setup.bat and wait until it's finished. Then put your token in message.py and save, then open it and     you're ready to go.
 
@@ -20,6 +21,7 @@ A : That's not an issue with the file. If it get's stuck download the .whl file 
 
 Q : Is this a token logger?
 A : No. The token is only kept in the message.py file, and is stored locally.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Credit to Alphascript for being the one who helped quite a bit with the learning aspect. Thank's.
